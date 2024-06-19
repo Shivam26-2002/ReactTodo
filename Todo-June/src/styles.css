@@ -46,7 +46,7 @@
   
   .btn.btn-danger:hover,
   .btn.btn-danger:focus-visible {
-    background: hsl(0, 100%, 40%, 0.2);
+    background: hsl(0, 100%, 40%, 0.3);
   }
   
   .new-item-form input {
